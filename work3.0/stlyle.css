@@ -1,0 +1,115 @@
+p {
+    color: #000000fa;
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 1.6;
+    border: solid rgb(0, 0, 0);
+    background-color: rgb(252, 252, 252);
+}
+  #a1 {
+    color: rgb(146, 9, 9);
+}
+#a1 {
+    color: rgb(146, 9, 9);
+}
+
+#a2 {
+    color: rgb(9, 72, 146);
+}
+
+#a3 {
+    color: rgb(9, 146, 57);
+}
+
+#a4 {
+    color: rgb(146, 117, 9);
+}
+
+#a5 {
+    color: rgb(128, 0, 128); /* ม่วง */
+}
+
+#a6 {
+    color: rgb(255, 105, 180); /* ชมพู */
+}
+
+#a7 {
+    color: rgb(0, 128, 128); /* ฟ้าเขียว */
+}
+
+#a8 {
+    color: rgb(255, 165, 0); /* ส้ม */
+}
+
+#a9 {
+    color: rgb(75, 0, 130); /* คราม */
+}
+
+#b1 {
+    color: rgb(0, 100, 0); /* เขียวเข้ม */
+}
+#b2 {
+    color: rgb(0, 0, 139); /* น้ำเงินเข้ม */
+}
+
+#b3 {
+    color: rgb(139, 0, 0); /* แดงเข้ม */
+}
+
+#b4 {
+    color: rgb(0, 139, 139); /* ฟ้าเขียวเข้ม */
+}
+
+#b5 {
+    color: rgb(139, 69, 19); /* น้ำตาลแดง */
+}
+
+#b6 {
+    color: rgb(218, 165, 32); /* ทองเข้ม */
+}
+
+#b7 {
+    color: rgb(199, 21, 133); /* ชมพูบานเย็น */
+}
+
+#b8 {
+    color: rgb(72, 61, 139); /* น้ำเงินม่วง */
+}
+h1{
+    text-align: center;
+}
+#b9 {
+    color: rgb(34, 139, 34); /* เขียวสด */
+}
+
+#b10 {
+    color: rgb(255, 99, 71); /* ส้มอมแดง */
+}
+
+#b11 {
+    color: rgb(0, 191, 255); /* ฟ้า */
+}
+
+#b12 {
+    color: rgb(186, 85, 211); /* ม่วงอ่อน */
+}
+
+#b13 {
+    color: rgb(255, 140, 0); /* ส้มเข้ม */
+}
+
+#b14 {
+    color: rgb(105, 105, 105); /* เทาเข้ม */
+}
+
+#b15 {
+    color: rgb(46, 139, 87); /* เขียวพาสเทลเข้ม */
+}
+#b16{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
